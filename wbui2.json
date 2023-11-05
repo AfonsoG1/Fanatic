@@ -1,67 +1,67 @@
 {
     "WBUI2": {
-        "settings": {
-            "OpenButton": 0,
-            "HideIcon": false,
-            "HideIconAfter": 60,
-            "IconURL": "https://i.imgur.com/pwccozo.png",
-            "DisableIconText": false,
-            "IconPosition": 3,
-            "IconTextColor": 0,
-            "OpenOnStart": true,
-            "OpenOnStartOnlyNewPlayers": true,
-            "UpdateInterval": 12
+      "settings": {
+          "OpenButton": 0,
+          "HideIcon": false,
+          "HideIconAfter": 60,
+          "IconURL": "https://i.imgur.com/pwccozo.png",
+          "DisableIconText": false,
+          "IconPosition": 3,
+          "IconTextColor": 0,
+          "OpenOnStart": true,
+          "OpenOnStartOnlyNewPlayers": true,
+          "UpdateInterval": 12
         },
-        "tabs": [
-            {
-                "tab1": {
-                    "layout": 1,
-                    "buttontext": "<TextStyle.White>Welcome!</>",
-                    "title1": "Welcome to Fanatic Survival!",
-                    "text1": "Hello and welcome to Fanatic Survival!\n Don't forget to join our discord in the button down below to know about the Giveaways, Events, Updates and more.\nIf you have any questions, please don't hesitate in contacting the admins or asking other players!\nBe respectful towards each other and have fun!\n\n\n\nYou can open this UI by pressing 'F1'.",
-                    "imageurl": "https://i.imgur.com/w0CVjlw.png"
-                }
-            },
-            {
-                "tab2": {
-                    "layout": 2,
-                    "buttontext": "Settings&Mods",
-                    "title1": "<TextStyle.Blue>Settings</>",
-                    "title2": "<TextStyle.Blue>Mods</>",
-                    "text1": "-XP, Harvest, Tame, Breeding: x20\n- Max. Playerlevel: 105 + chibi(+5) + Ascensions(+15) = 125 levels\n- Max. Wild dino level: 150/180(tek) / 190(wyverns and rock drake)\n- Max. dino level  after tamed: 224/269(tek)\n+88 levels as they gain xp.\n- Tribe Limit: 4\n- Turret limit: 150 turrets in a 33 foundations range.\n- No diseases.\n- No Mindwipe cooldown.\n- 5k item stacks!",
-                    "text2": "-Solo Farm\n-Super Spyglass",
-                    "imageurl": "https://i.imgur.com/uHcFQx7.png"
-                }
-            },
-            {
-                "tab3": {
-                    "layout": 3,
-                    "buttontext": "Rules",
-                    "title1": "Generl Rules",
-                    "text1": "For now the ASA servers will only have the basic/common sense rules!\n-No mesh!\nNo hacks!\nNo exploits!\n-No racism!",
-                    "imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlgPYtSIv5_fPAlKRUUsTn-Geg28mJ6u8TiW73_jzWkNuOCNlL5K0zCqC2Sta7fXlAcqA&usqp=CAU"
-                }
-            }
-        ],
-        "links": [
-            {
-                "link1": {
-                    "text": "Discord!",
-                    "url": "https://discord.gg/xbmpGUjaHj"
-                }
-            },
-            {
-                "link2": {
-                    "text": "Website!",
-                    "url": "https://fanatic-survival.com/"
-                }
-            },
-            {
-                "link3": {
-                    "text": "Steam Group!",
-                    "url": "https://steamcommunity.com/groups/fanatic_survival"
-                }
-            }
-        ]
+      "tabs": [
+        {
+          "tab1": {
+            "layout": 1,
+            "buttontext": "<TextStyle.White>Welcome!</>",
+            "title1": "Welcome to Fanatic Survival!",
+            "text1": " Hello and welcome to Fanatic Survival!\n\n Don't forget to join our discord in the button down below to know about the Giveaways, Events, Updates and more.\n\n If you have any questions, please don't hesitate in contacting the admins or asking other players!\n\n Be respectful towards each other and have fun!\n\n\n\n You can open this UI by pressing 'F1'.",
+            "imageurl": "https://i.imgur.com/w0CVjlw.png"
+          }
+        },
+        {
+          "tab2": {
+            "layout": 2,
+            "buttontext": "Settings&Mods",
+            "title1": "<TextStyle.Blue>Settings</>",
+            "title2": "<TextStyle.Blue>Mods</>",
+            "text1": "-XP, Harvest, Tame, Breeding: x20\n- Max. Playerlevel: 105 + chibi(+5) + Ascensions(+15) = 125 levels\n- Max. Wild dino level: 150/180(tek) / 190(wyverns and rock drake)\n- Max. dino level  after tamed: 224/269(tek)\n+88 levels as they gain xp.\n- Tribe Limit: 4\n- Turret limit: 150 turrets in a 33 foundations range.\n- No diseases.\n- No Mindwipe cooldown.\n- 5k item stacks!",
+            "text2": "-Solo Farm\n-Super Spyglass",
+            "imageurl": "https://i.imgur.com/uHcFQx7.png"
+          }
+        },
+        {
+          "tab3": {
+            "layout": 1,
+            "buttontext": "Rules",
+            "title1": "General Rules",
+            "text1": "For now the ASA servers will only have the basic/common sense rules!\n-No mesh!\nNo hacks!\nNo exploits!\n-No racism!",
+            "imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlgPYtSIv5_fPAlKRUUsTn-Geg28mJ6u8TiW73_jzWkNuOCNlL5K0zCqC2Sta7fXlAcqA&usqp=CAU"
+          }
+        }
+      ],
+      "links": [
+        {
+          "link1": {
+            "text": "Discord!",
+            "url": "https://discord.gg/xbmpGUjaHj"
+          }
+        },
+        {
+          "link2": {
+            "text": "Website!",
+            "url": "https://fanatic-survival.com/"
+          }
+        },
+        {
+          "link3": {
+            "text": "Steam Group!",
+            "url": "https://steamcommunity.com/groups/fanatic_survival"
+          }
+        }
+      ]
     }
-}
+  }
