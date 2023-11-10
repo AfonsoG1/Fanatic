@@ -1,0 +1,12 @@
+{
+    "Blueprint'/Game/PrimalEarth/Structures/CookingPot.CookingPot'":
+    {
+        "DecayDestructionPeriod": 86400,
+        "DecayDestructionPeriodMultiplier": 1
+    },
+    "Blueprint'/Game/PrimalEarth/Structures/IndustrialCookingPot.IndustrialCookingPot'":
+    {
+        "DecayDestructionPeriod": 1200,
+        "DecayDestructionPeriodMultiplier": 4
+    }
+}
